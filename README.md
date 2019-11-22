@@ -88,4 +88,9 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 score = model.evaluate(X_test, Y_test, verbose=0)
 print(score)
 
-[0.018499813851737417, 0.994]
+####[0.018499813851737417, 0.994]
+
+Strategy is if we add 1x1 layer to it then it will leads to reduce the parameters so that we added it.
+
+####Our team members are Hiranmai Tummalapalli and Penugonda Naga Venkata Raviteja.
+
